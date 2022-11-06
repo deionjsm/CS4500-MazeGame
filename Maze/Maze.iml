@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Referee" isTestSource="false" packagePrefix="Protocols" />
+      <excludeFolder url="file://$MODULE_DIR$/Common/Cumulative_Tests" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
