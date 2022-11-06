@@ -13,10 +13,6 @@ import Players.SimpleRefPlayer;
 
 import java.util.*;
 
-//TODO Create IFilteredState
-//TODO Design
-//TODO JUnit Testing
-//TODO
 
 /** Represents the Referees side of the logical interactions between
  * Referee and Player protocol.
