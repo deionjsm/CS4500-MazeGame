@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -cp ../out/production/Maze/:test/junit-4.13.1.jar:test/hamcrest-core-1.3.jar Cumulative_Tests.TestRunner $1
